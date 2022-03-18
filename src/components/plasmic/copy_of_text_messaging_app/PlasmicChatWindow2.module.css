@@ -1,0 +1,55 @@
+.chatWindow {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  min-width: 0;
+  min-height: 0;
+}
+.chatWindow > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.chatWindow > :global(.__wab_flex-container) > *,
+.chatWindow > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.chatWindow > :global(.__wab_flex-container) > picture > img,
+.chatWindow
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.messageOverlayNavigation:global(.__wab_instance) {
+  position: relative;
+  left: auto;
+  top: auto;
+  height: 56px;
+  flex-shrink: 0;
+}
+.messageHistoryArea:global(.__wab_instance) {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  left: auto;
+  top: auto;
+  min-width: 0;
+  min-height: 0;
+}
+.composeMessage:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.actionsArea:global(.__wab_instance) {
+  position: relative;
+  width: 100%;
+  min-width: 0;
+  flex-shrink: 0;
+}

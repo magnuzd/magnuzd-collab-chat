@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  width: 44px;
+  height: 44px;
+  max-width: 100%;
+  position: relative;
+  background: var(--token-ffmq3CNlB);
+  transform: skewX(0deg) skewY(0deg);
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  border: 1px solid transparent;
+}
+.svg___0OjwK {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  left: auto;
+  top: auto;
+  color: #ffffff;
+  transform: rotateX(0deg) rotateY(180deg) rotateZ(0deg);
+  width: 24px;
+  height: 24px;
+  transform-style: preserve-3d;
+  flex-shrink: 0;
+}
+.svg___0OjwK * {
+  transform-style: preserve-3d;
+}

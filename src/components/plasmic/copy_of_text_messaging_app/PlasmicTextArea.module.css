@@ -1,0 +1,23 @@
+.root {
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  width: auto;
+  height: auto;
+}
+.textInput:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.svg__twwA {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}
+.svg__jJr9Y {
+  position: relative;
+  object-fit: cover;
+  width: 1em;
+  height: 1em;
+}

@@ -1,0 +1,132 @@
+.messageHistory {
+  flex-direction: column;
+  display: flex;
+  width: 100%;
+  height: 232px;
+  max-width: 100%;
+  background: rgba(68, 192, 255, 0.2);
+  position: relative;
+  min-width: 0;
+  padding: 8px;
+}
+.messageHistory > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  margin-top: calc(0px - 8px);
+  height: calc(100% + 8px);
+}
+.messageHistory > :global(.__wab_flex-container) > *,
+.messageHistory > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.messageHistory > :global(.__wab_flex-container) > picture > img,
+.messageHistory
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 8px;
+}
+.messageHistorymessageSent {
+  height: 292px;
+}
+.recipient {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  left: auto;
+  top: auto;
+  min-width: 0;
+}
+.freeBox {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0.5px;
+  max-width: 100%;
+  background: var(--token-IVLVHACRO);
+  left: auto;
+  top: auto;
+  min-width: 0;
+  flex-shrink: 0;
+  padding: 0px;
+}
+.messages {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  top: auto;
+  left: auto;
+  align-self: flex-start;
+  transform: translateX(0px) translateY(0px) translateZ(0px);
+  min-width: 0;
+  padding: 8px;
+}
+.recruiterMessage {
+  display: block;
+  width: 127px;
+  height: 78px;
+  max-width: 100%;
+  background: rgba(68, 192, 255, 0.2);
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  flex-shrink: 0;
+  padding: 8px;
+}
+.p__xztf3 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  left: 8px;
+  top: 15px;
+}
+.candidateMessage {
+  display: block;
+  position: relative;
+  width: 129px;
+  height: 65px;
+  max-width: 100%;
+  background: rgba(68, 192, 255, 0.2);
+  left: auto;
+  top: auto;
+  align-self: flex-end;
+  flex-shrink: 0;
+  padding: 8px;
+}
+.p__tWo8 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  left: 5px;
+  top: 11px;
+  margin-top: 0px;
+}
+.recruiterMessage2 {
+  display: block;
+  width: 127px;
+  height: 78px;
+  max-width: 100%;
+  background: rgba(68, 192, 255, 0.2);
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  flex-shrink: 0;
+  padding: 8px;
+}
+.p__gb8Z2 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  left: 8px;
+  top: 15px;
+}

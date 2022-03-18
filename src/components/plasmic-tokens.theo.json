@@ -1,0 +1,949 @@
+{
+  "props": [
+    {
+      "name": "1",
+      "type": "fontsize",
+      "value": "14px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "_qU9Wmv3p"
+      }
+    },
+    {
+      "name": "2",
+      "type": "fontsize",
+      "value": "16px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "D-YeiePbX"
+      }
+    },
+    {
+      "name": "3",
+      "type": "fontsize",
+      "value": "18px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "Udsv3323t"
+      }
+    },
+    {
+      "name": "4",
+      "type": "fontsize",
+      "value": "20px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "PHTKEUN6y"
+      }
+    },
+    {
+      "name": "5",
+      "type": "fontsize",
+      "value": "23px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "QFNbQFCEO"
+      }
+    },
+    {
+      "name": "6",
+      "type": "fontsize",
+      "value": "26px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "rY1rrJLG5"
+      }
+    },
+    {
+      "name": "7",
+      "type": "fontsize",
+      "value": "32px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "0cp83gmLs"
+      }
+    },
+    {
+      "name": "8",
+      "type": "fontsize",
+      "value": "41px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "bbZ8FBcl-"
+      }
+    },
+    {
+      "name": "9",
+      "type": "fontsize",
+      "value": "51px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "OUwzuklgo"
+      }
+    },
+    {
+      "name": "Content",
+      "type": "fontfamily",
+      "value": "Noto Sans",
+      "category": "fontfamily",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "8EtXQXTLS"
+      }
+    },
+    {
+      "name": "Headings",
+      "type": "fontfamily",
+      "value": "Volte Rounded",
+      "category": "fontfamily",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "4xJaMQzeG"
+      }
+    },
+    {
+      "name": "UnnamedStyleToken",
+      "type": "color",
+      "value": "#FFFFFF",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "RVmjMRun8"
+      }
+    },
+    {
+      "name": "UnnamedStyleToken 2",
+      "type": "color",
+      "value": "#00000047",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "4YokKT5vp"
+      }
+    },
+    {
+      "name": "action",
+      "type": "color",
+      "value": "#0176B2",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "gWz5Y-CgE"
+      }
+    },
+    {
+      "name": "action-darker",
+      "type": "color",
+      "value": "#0F5D90",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "c27dvCCDc"
+      }
+    },
+    {
+      "name": "action-lighter",
+      "type": "color",
+      "value": "#549AC8",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "GHB2MTFeg"
+      }
+    },
+    {
+      "name": "actionable-border-on-dark",
+      "type": "color",
+      "value": "#FFFFFF6E",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "g7mnzFt7Q"
+      }
+    },
+    {
+      "name": "actionable-border-on-light",
+      "type": "color",
+      "value": "#0000006B",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "AKC7TObs4"
+      }
+    },
+    {
+      "name": "avatar-purple",
+      "type": "color",
+      "value": "#D9E9FD",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "q0oJ03KCy"
+      }
+    },
+    {
+      "name": "brand",
+      "type": "color",
+      "value": "#005151",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "ffmq3CNlB"
+      }
+    },
+    {
+      "name": "brand-darker",
+      "type": "color",
+      "value": "#003133",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "xoZ-tj4fe"
+      }
+    },
+    {
+      "name": "brand-lighter",
+      "type": "color",
+      "value": "#17978E",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "rPSMrMlbz"
+      }
+    },
+    {
+      "name": "button-border-disabled-on-dark",
+      "type": "color",
+      "value": "#FFFFFF33",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "pE5pGkooJ"
+      }
+    },
+    {
+      "name": "button-border-disabled-on-light",
+      "type": "color",
+      "value": "#00000061",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "JPjqzhoHI"
+      }
+    },
+    {
+      "name": "button-border-enabled-on-dark",
+      "type": "color",
+      "value": "#FFFFFF",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "xDzVfFMOJ"
+      }
+    },
+    {
+      "name": "button-border-enabled-on-light",
+      "type": "color",
+      "value": "#0176B2",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "bUkPg1Pe8"
+      }
+    },
+    {
+      "name": "chip-container",
+      "type": "color",
+      "value": "#00000014",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "WPX3O8Cau"
+      }
+    },
+    {
+      "name": "chip-container-hover",
+      "type": "color",
+      "value": "#00000021",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "c5ffx49-H"
+      }
+    },
+    {
+      "name": "divider-on-dark",
+      "type": "color",
+      "value": "#FFFFFF26",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "9uXiYcFdP"
+      }
+    },
+    {
+      "name": "divider-on-light",
+      "type": "color",
+      "value": "#00000026",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "zX_SxCRAQ"
+      }
+    },
+    {
+      "name": "focus-border-on-dark",
+      "type": "color",
+      "value": "#FFFFFFA6",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "DOCKVMKaz"
+      }
+    },
+    {
+      "name": "focus-border-on-light",
+      "type": "color",
+      "value": "#549AC8",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "NhBEmAaB0"
+      }
+    },
+    {
+      "name": "highlight-range",
+      "type": "color",
+      "value": "#0176B214",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "S7RwBd_ih"
+      }
+    },
+    {
+      "name": "highlight-range-hover",
+      "type": "color",
+      "value": "#0176B221",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "K0oHJvsfj"
+      }
+    },
+    {
+      "name": "hover-on-dark",
+      "type": "color",
+      "value": "#FFFFFF26",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "Va3yLIcWH"
+      }
+    },
+    {
+      "name": "hover-on-light",
+      "type": "color",
+      "value": "#0000000D",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "ZGUv5YCjZ"
+      }
+    },
+    {
+      "name": "icon-disabled-on-dark",
+      "type": "color",
+      "value": "#FFFFFF45",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "pYlEOAEwp"
+      }
+    },
+    {
+      "name": "icon-disabled-on-light",
+      "type": "color",
+      "value": "#00000033",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "ckkQM9bpg"
+      }
+    },
+    {
+      "name": "icon-enabled-low-emphasis-on-dark",
+      "type": "color",
+      "value": "#FFFFFFA6",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "mPoO7Sd9L"
+      }
+    },
+    {
+      "name": "icon-enabled-low-emphasis-on-light",
+      "type": "color",
+      "value": "#FFFFFF6B",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "UHiGjeokW"
+      }
+    },
+    {
+      "name": "icon-enabled-on-dark",
+      "type": "color",
+      "value": "#FFFFFFE6",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "erWzhkYuy"
+      }
+    },
+    {
+      "name": "icon-enabled-on-light",
+      "type": "color",
+      "value": "#0000008C",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "Que6hF-6b"
+      }
+    },
+    {
+      "name": "icon-hover-on-dark",
+      "type": "color",
+      "value": "#FFFFFF",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "2JzYMQJVE"
+      }
+    },
+    {
+      "name": "icon-hover-on-light",
+      "type": "color",
+      "value": "#000000DE",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "jT_f15pzi"
+      }
+    },
+    {
+      "name": "icon-selected-on-dark",
+      "type": "color",
+      "value": "#FFFFFFE6",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "wRW9NMDK5"
+      }
+    },
+    {
+      "name": "icon-selected-on-light",
+      "type": "color",
+      "value": "#FFFFFFB8",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "tfnIErnV3"
+      }
+    },
+    {
+      "name": "important",
+      "type": "color",
+      "value": "#DC0C22",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "NF_-T0m4S"
+      }
+    },
+    {
+      "name": "important-border",
+      "type": "color",
+      "value": "#F8CFD3",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "Rp7T5xcx7"
+      }
+    },
+    {
+      "name": "important-icon-bg",
+      "type": "color",
+      "value": "#FBE4E7",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "FVuT1UZpT"
+      }
+    },
+    {
+      "name": "important-surface",
+      "type": "color",
+      "value": "#FDF2F3",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "SeJGZbIeV"
+      }
+    },
+    {
+      "name": "important-text",
+      "type": "color",
+      "value": "#C10B1E",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "4GXlbHyPr"
+      }
+    },
+    {
+      "name": "info",
+      "type": "color",
+      "value": "#617BFF",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "VAuO4o7B0"
+      }
+    },
+    {
+      "name": "info-border",
+      "type": "color",
+      "value": "#D1D9FF",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "KgcHRRvbO"
+      }
+    },
+    {
+      "name": "info-icon-bg",
+      "type": "color",
+      "value": "#EBEFFF",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "VcekbHp48"
+      }
+    },
+    {
+      "name": "info-surface",
+      "type": "color",
+      "value": "#F4F6FF",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "fTv50Dbas"
+      }
+    },
+    {
+      "name": "line-height-base",
+      "type": "lineheight",
+      "value": "24px",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "PpGQzc4Ar"
+      }
+    },
+    {
+      "name": "scrim",
+      "type": "color",
+      "value": "#FFFFFF52",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "OgEx0GrZz"
+      }
+    },
+    {
+      "name": "selected-on-dark",
+      "type": "color",
+      "value": "#FFFFFF52",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "-_Wba5wQc"
+      }
+    },
+    {
+      "name": "selected-on-light",
+      "type": "color",
+      "value": "#FFFFFF17",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "AqsfEEcLP"
+      }
+    },
+    {
+      "name": "spacing-large",
+      "type": "spacing",
+      "value": "32px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "zQa5x-Yca"
+      }
+    },
+    {
+      "name": "spacing-medium",
+      "type": "spacing",
+      "value": "24px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "WuuvJUssJ"
+      }
+    },
+    {
+      "name": "spacing-small",
+      "type": "spacing",
+      "value": "16px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "2ttKofgBn"
+      }
+    },
+    {
+      "name": "spacing-touch",
+      "type": "spacing",
+      "value": "44px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "KTkVzqsaQ"
+      }
+    },
+    {
+      "name": "spacing-xl",
+      "type": "spacing",
+      "value": "40px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "o-97cjbM3"
+      }
+    },
+    {
+      "name": "spacing-xs",
+      "type": "spacing",
+      "value": "8px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "J8cB5xYM_"
+      }
+    },
+    {
+      "name": "spacing-xxl",
+      "type": "spacing",
+      "value": "48px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "elCkDIk6u"
+      }
+    },
+    {
+      "name": "spacing-xxs",
+      "type": "spacing",
+      "value": "4px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "besQj99V4"
+      }
+    },
+    {
+      "name": "spacing-xxxl",
+      "type": "spacing",
+      "value": "56px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "StCBk-eVR"
+      }
+    },
+    {
+      "name": "spacing-xxxs",
+      "type": "spacing",
+      "value": "2px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "X3yj0h6R7"
+      }
+    },
+    {
+      "name": "spacing-xxxxs",
+      "type": "spacing",
+      "value": "1px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "MIBIjCq49"
+      }
+    },
+    {
+      "name": "success",
+      "type": "color",
+      "value": "#1B7F66",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "eMY4Z-y75"
+      }
+    },
+    {
+      "name": "success-border",
+      "type": "color",
+      "value": "#C5E2DB",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "FivHZ3t8G"
+      }
+    },
+    {
+      "name": "success-icon-bg",
+      "type": "color",
+      "value": "#DEEDE9",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "OSnHUlYd_"
+      }
+    },
+    {
+      "name": "success-surface",
+      "type": "color",
+      "value": "#EDF6F4",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "qr240zl8X"
+      }
+    },
+    {
+      "name": "success-text",
+      "type": "color",
+      "value": "#006B50",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "4xbNfxZf8"
+      }
+    },
+    {
+      "name": "surface-dark",
+      "type": "color",
+      "value": "#4A4A4A",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "HQM4DktjI"
+      }
+    },
+    {
+      "name": "surface-dark-darker",
+      "type": "color",
+      "value": "#323232",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "IVLVHACRO"
+      }
+    },
+    {
+      "name": "surface-disabled-on-dark",
+      "type": "color",
+      "value": "#FFFFFF33",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "MWOa3CHsV"
+      }
+    },
+    {
+      "name": "surface-disabled-on-light",
+      "type": "color",
+      "value": "#00000008",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "zzI2bKyT2"
+      }
+    },
+    {
+      "name": "surface-light",
+      "type": "color",
+      "value": "#FFFFFF",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "gpxwtQabh"
+      }
+    },
+    {
+      "name": "surface-light-darker",
+      "type": "color",
+      "value": "#F5F5F5",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "Yn3WoteLX"
+      }
+    },
+    {
+      "name": "text-disabled-on-dark",
+      "type": "color",
+      "value": "#FFFFFF66",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "KchjBwhWY"
+      }
+    },
+    {
+      "name": "text-disabled-on-light",
+      "type": "color",
+      "value": "#00000047",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "lYY8HPggf"
+      }
+    },
+    {
+      "name": "text-high-emphasis-on-dark",
+      "type": "color",
+      "value": "#FFFFFF",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "FAPfRbGKl"
+      }
+    },
+    {
+      "name": "text-high-emphasis-on-light",
+      "type": "color",
+      "value": "#000000DE",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "PBKkCyF5B"
+      }
+    },
+    {
+      "name": "text-low-emphasis-on-dark",
+      "type": "color",
+      "value": "#FFFFFFB3",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "nhHOl1ooP"
+      }
+    },
+    {
+      "name": "text-low-emphasis-on-light",
+      "type": "color",
+      "value": "#00000099",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "wK6i_noQC"
+      }
+    },
+    {
+      "name": "text-navigation-idle-on-dark",
+      "type": "color",
+      "value": "#FFFFFFE0",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "iRYqbBwVc"
+      }
+    },
+    {
+      "name": "text-navigation-idle-on-light",
+      "type": "color",
+      "value": "#000000B8",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "1pty10kCO"
+      }
+    },
+    {
+      "name": "warning",
+      "type": "color",
+      "value": "#D17600",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "9xv06PmBw"
+      }
+    },
+    {
+      "name": "warning-border",
+      "type": "color",
+      "value": "#F2DABA",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "tQko4L7QD"
+      }
+    },
+    {
+      "name": "warning-icon-bg",
+      "type": "color",
+      "value": "#F9ECDC",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "9mbu_oZJv"
+      }
+    },
+    {
+      "name": "warning-surface",
+      "type": "color",
+      "value": "#FCF6ED",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "fxxnGNLY5"
+      }
+    },
+    {
+      "name": "warning-text",
+      "type": "color",
+      "value": "#A35C00",
+      "category": "color",
+      "meta": {
+        "projectId": "wKYGFqyVBmDVb7fPCj2tLF",
+        "id": "LPV1FuIxk"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
